@@ -1,0 +1,21 @@
+package javaBootCamp_Methods2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		
+
+	}
+	public static void add() {
+		System.out.println("Eklendi");
+	}
+	public static void delete() {
+		System.out.println("Silindi");
+	}
+	public static void update() {
+		System.out.println("Güncellendi");
+	}
+	
+
+
+}

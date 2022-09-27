@@ -1,0 +1,9 @@
+INDEX VERSION 1.131+C:\javaBootCamp_Task\.metadata\.plugins\org.eclipse.jdt.core
+1865797976.index
+835355166.index
+1692924989.index
+4285073430.index
+3894714012.index
+3061298256.index
+4270431709.index
+2467240508.index

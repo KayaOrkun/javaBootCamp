@@ -1,0 +1,7 @@
+package javaBootCamp_inheritance;
+
+public class Employee {
+	int id;
+	String firstName;
+	
+}

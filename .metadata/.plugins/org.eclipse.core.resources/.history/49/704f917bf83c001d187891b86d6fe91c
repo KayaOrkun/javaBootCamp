@@ -1,0 +1,28 @@
+package javaBootCamp_Methods2;
+
+public class Main {
+
+	public static void main(String[] args) {
+		String message = "Bugün hava çok güzel.";
+		String newMessage = from();
+		System.out.println(newMessage);
+	}
+	public static void add() {
+		System.out.println("Eklendi");
+	}
+	public static void delete() {
+		System.out.println("Silindi");
+	}
+	public static void update() {
+		System.out.println("Güncellendi");
+	}
+	public static int gather() {
+		return 5;
+	}
+	public static String from() {
+		return "İstanbul";
+	}
+	
+
+
+}

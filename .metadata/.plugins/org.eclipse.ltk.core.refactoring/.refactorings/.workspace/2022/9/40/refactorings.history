@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;javaBootCamp_methodOverLoading&apos;" deleteContents="false" description="Delete resource &apos;javaBootCamp_methodOverLoading&apos;" element1="/javaBootCamp_methodOverLoading" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1664312494442"/>
+</session>
